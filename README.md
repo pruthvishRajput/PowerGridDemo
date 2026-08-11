@@ -1,8 +1,8 @@
 # PowerGridDemo
 
 Steps to execute:
-1. Download the repositry.
-2. Download the library listed in requirements.txt
+1. Download the repository.
+2. Download the library listed in requirements.txt and dataset from following link: [Dataset link](https://zenodo.org/records/6974112)
 3. Execute "PowerGrid_Demo" file
 
 Note: This repository is only for educational purpose. Please note that dataset and all its right belongs to "PowerDuck: A GOOSE Data Set of Cyberattacks in Substations [[1]](https://zenodo.org/records/6974112)". 
